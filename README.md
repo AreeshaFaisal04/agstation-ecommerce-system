@@ -8,7 +8,7 @@ The system allows management of products, orders, users, inventory, and related 
 
 ## Features
 
-### 🛒 Frontend (User Side)
+### Frontend (User Side)
 
 * Homepage (`index.php`)
 * Product listing and product details
