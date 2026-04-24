@@ -81,7 +81,7 @@ The system allows management of products, orders, users, inventory, and related 
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 agstation/
 │
@@ -99,7 +99,7 @@ agstation/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * PHP
 * MySQL
@@ -109,7 +109,7 @@ agstation/
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 1. Place the project folder in your local server directory:
 
