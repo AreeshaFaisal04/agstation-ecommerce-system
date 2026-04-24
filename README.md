@@ -81,24 +81,6 @@ The system allows management of products, orders, users, inventory, and related 
 
 ---
 
-## Project Structure
-
-agstation/
-│
-├── admin/                    # Admin dashboard modules
-├── frontend/                 # User-facing pages
-├── user/                     # User dashboard
-├── auth/                     # Authentication system
-├── config/                   # Database configuration
-├── database/                 # SQL schema
-├── includes/                 # Shared components (header, footer, etc.)
-├── assets/                   # CSS, JS, images
-├── uploads/                  # Uploaded product images
-├── Script-32.sql             # Additional database script
-└── README.md.txt             # Existing readme file
-
----
-
 ## Technologies Used
 
 * PHP
